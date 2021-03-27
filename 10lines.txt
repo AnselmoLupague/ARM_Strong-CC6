@@ -1,3 +1,5 @@
+//Save this as ".lrc"
+
 [ar: DAY6]
 [al: The Book of Us : The Demon]
 [ti: Zombie (English Ver.)]
