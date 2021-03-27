@@ -1,3 +1,16 @@
+
+
+01 - One Direction
+02 - 2ne1
+03 - V33nus
+04 - Blackpink
+05 - BGYO
+06 - TXT
+07 - Got7
+08 - X1
+09 - SB19
+10 - Seventeen
+
 [ar: I-LAND]
 [al: Into the I-LAND (Applicants Version) - Single]
 [ti: Into the I-LAND (Applicants Version)]
@@ -87,16 +100,4 @@
 [03:30.49]Oh
 [03:31.60]Run for your dream
 [03:35.48]ModLyrics by Anseeyuuh
-
-
-01 - One Direction
-02 - 2ne1
-03 - V33nus
-04 - Blackpink
-05 - BGYO
-06 - TXT
-07 - Got7
-08 - X1
-09 - SB19
-10 - Seventeen
 
