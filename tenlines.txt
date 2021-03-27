@@ -1,3 +1,94 @@
+[ar: I-LAND]
+[al: Into the I-LAND (Applicants Version) - Single]
+[ti: Into the I-LAND (Applicants Version)]
+
+[re: LRC Editor - Android app]
+[ve: Version 3.2.3]
+
+[00:00.00] 
+[00:03.21]I got pushed tteomillyeo wasseo
+[00:06.93]Oraedo chaja hemaen kkumui mun ape
+[00:10.61]Nae ane geu jageun noraega
+[00:13.72]Jageun noraega nal yeogi deryeowasseo
+[00:17.12] 
+[00:18.32]Oerowodo gidael got eopsi
+[00:20.42]Goerowodo meomchum eopsi
+[00:22.63]Geujeo chamgo gyeondin siganui uimireul
+[00:26.58]Ijeya na neol mannan hueya
+[00:30.13]Sonjabeun hueya geu iyureul kkaedara
+[00:33.54] 
+[00:34.19]Yeah I’m scared duryeopgin hajiman
+[00:37.62]Himchage ttwieoga let's just try
+[00:42.21]It’s our chance sueopsi saegyeojin
+[00:45.28]Jinan baljagugi ara
+[00:48.40] 
+[00:50.58](Woah oh)
+[00:51.18]Chinguga doeeo hamkke georeojwo
+[00:54.63]Let’s just run for our lives
+[00:57.45](Woah oh)
+[00:58.69]Soneul naemireo geurigo yaksokae
+[01:02.59]Let’s just run for our lives
+[01:05.51](Woah oh)
+[01:07.27]Miraeui muni yeolligo yaksogui geunari boyeo
+[01:10.50]You and I
+[01:11.87]We can fly
+[01:14.10]Neon tto dareun na nan tto dareun neo
+[01:18.60]Let’s just run for our lives
+[01:21.40] 
+[01:22.13](Woah oh)
+[01:23.20]Neowa nae kkumui I-LAND
+[01:26.62]Run for your heart, run for your life
+[01:30.55]Neowa nae kkumui I-LAND
+[01:34.17]Run for your heart, run for your life
+[01:36.83] 
+[01:37.36]Oerowodo gidael got eopsi
+[01:39.14]Goerowodo meomchum eopsi
+[01:41.30]Naege jiguneun kkok muindo gatasseo
+[01:44.72]But right now neon jigeum nae yeope
+[01:48.84]Jigeum nae yeope hamkke dalligo isseo
+[01:52.98] 
+[01:53.63]Yeah I’m scared tteolligo itjiman
+[01:56.26]Meomchuji malgo ga let's just try
+[02:00.64]It’s our chance sueopsi saegyeojin
+[02:04.19]Jinan baljagugi ara
+[02:08.13] 
+[02:08.70](Woah oh)
+[02:09.65]Chinguga doeeo hamkke georeojwo
+[02:13.45]Let’s just run for our lives
+[02:16.41](Woah oh)
+[02:17.51]Soneul naemireo geurigo yaksokae
+[02:21.56]Let’s just run for our lives
+[02:23.81] 
+[02:24.85]Woah oh
+[02:25.51]‘I’ran seomgwa seom sai
+[02:27.43]Jageun seoneul ieoseo dandanhan daril jieo
+[02:32.87]Now I, and I, and I, and I are I-LAND
+[02:36.96]Neowa nan, neowa nan, neowa nan hanain geoya
+[02:40.21] 
+[02:41.28]Neowa nae kkumui I-LAND
+[02:44.88]Run for your heart, run for your life
+[02:49.63]Neowa nae kkumui I-LAND
+[02:52.60]Run for your heart, run for your life
+[02:55.33] 
+[02:55.92](Woah oh)
+[02:56.76]Chinguga doeeo hamkke georeojwo
+[03:00.67]Let’s just run for our lives
+[03:03.45](Woah oh)
+[03:04.67]Soneul naemireo geurigo yaksokae
+[03:08.49]Let’s just run for our lives
+[03:11.51](Woah oh)
+[03:12.72]Kkumeun hyeonsire kkotpigo kkocheun bulkkot soge binna
+[03:16.46]You and I
+[03:18.16]We can fly
+[03:20.51]Neon tto dareun na nan tto dareun neo
+[03:24.41]Let’s just run for our lives
+[03:26.70] 
+[03:27.22](Woah oh)
+[03:30.49]Oh
+[03:31.60]Run for your dream
+[03:35.48]ModLyrics by Anseeyuuh
+
+
 01 - One Direction
 02 - 2ne1
 03 - V33nus
@@ -8,3 +99,4 @@
 08 - X1
 09 - SB19
 10 - Seventeen
+
